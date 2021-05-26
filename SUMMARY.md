@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Script de Servicio de Gophish](script-de-servicio-de-gophish.md)
+* [Script de Servicio de Gophish](README.md)
 * [Generar Certificado Wildcard](generar-certificado-wildcard.md)
 
