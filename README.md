@@ -1,7 +1,6 @@
 # Script de Servicio de Gophish
 
-/etc/init.d/gophish
-
+{% code title="/etc/init.d/gophish" %}
 ```bash
 #!/bin/bash
 # /etc/systemd/system/gophish
@@ -58,6 +57,7 @@ case $1 in
    start|stop|status) "$1" ;;
 esac
 ```
+{% endcode %}
 
 
 
